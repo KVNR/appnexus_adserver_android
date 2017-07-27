@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/res/merged/debug/raw/anjam.js",
+        "source": "/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.appnexus.opensdk/appnexus-sdk/3.4/res/raw/anjam.js"
+    },
+    {
+        "merged": "/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/res/merged/debug/raw/sdkjs.js",
+        "source": "/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.appnexus.opensdk/appnexus-sdk/3.4/res/raw/sdkjs.js"
+    },
+    {
+        "merged": "/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/res/merged/debug/raw/apn_mraid.js",
+        "source": "/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.appnexus.opensdk/appnexus-sdk/3.4/res/raw/apn_mraid.js"
+    }
+]

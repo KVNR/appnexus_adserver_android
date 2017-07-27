@@ -1,0 +1,4 @@
+CHANGED,/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kgast/appnexustestapp/MainActivity$6.class
+CHANGED,/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kgast/appnexustestapp/MainActivity$5.class
+CHANGED,/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kgast/appnexustestapp/MainActivity$4.class
+CHANGED,/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/example/kgast/appnexustestapp/MainActivity.class

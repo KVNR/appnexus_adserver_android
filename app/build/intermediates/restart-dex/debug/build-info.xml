@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="176129999092157"
+    token="3708712059982591481"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="990" />
+    <task
+        name="instant-run-dex"
+        duration="1323" />
+    <task
+        name="instant-run-transform"
+        duration="135" />
+    <task
+        name="verifier"
+        duration="12" />
+
+    <artifact
+        location="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="173633849511195" >
+        <artifact
+            location="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="175907404975919"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="176059783486485"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/builds/debug/176059783486485/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="176110854151567"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/builds/debug/176110854151567/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="176129999092157"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppNexus Test App</string>
+    <string name="editTextPlacementId">Placement Id</string>
+    <string name="editTextPlacementSize">Placement Size</string>
+    <string name="buttonLoad">Load</string>
+    <string name="buttonLoadInterstitial">Load Interstitial</string>
+    <string name="buttonLoadVideo">Load Video</string>
+    <string-array name="adTypes">
+        <item>Banner</item>
+        <item>Interstitial</item>
+        <item>Native</item>
+        <item>Video</item>
+    </string-array>
+</resources>

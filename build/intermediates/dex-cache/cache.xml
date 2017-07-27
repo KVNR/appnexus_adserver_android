@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_25c3f33d52665b928f870a6066c7dc3714f291c9.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_de2fe22f0e4ee29b1de5c7202a0fd438bed6cc51.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_5d9e4a88f44f93942fd4d02030245af899f75fb6.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_69f712facd7dd60fc5e2e043e8a99ad8736d6e40.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_4deb7b2234202820c800762940eb4a4d573eb542.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_86ae9f1db948262ae9e6ed2681e02ff068f6dc94.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_38ba81712aaa8be749abaa150823df14845eb294.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_3e9eb9d0bafbe2eedcf4cdb1d83ad97851c4f704.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_c48dd5e2a678a4a993159bcc549204dc6bf6317e.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.appnexus.opensdk/appnexus-instreamvideo/3.4-1.3/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6b3583ef71029003865f2ac1cb29a59dcf2280ef">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/com.appnexus.opensdk-appnexus-instreamvideo-3.4-1.3_75575c7e61c1bc8660cc5ba599d0579946df85a8.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_9e8a57c335543c82b1102d8467f436bb5a95ae4a.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_17bc9dc2c0685d5e6ad12d352154044a53611530.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_bd3bf8397ff88d05f28f5c80b272cf039d22c4e9.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.appnexus.opensdk/appnexus-sdk/3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="632e0937a725efcf5c391d265774d202456ca9e3">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/com.appnexus.opensdk-appnexus-sdk-3.4_ba845b06a28b891284efbafa97f73dac6dd510ce.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_9cacd0fe705a4bbcaa6d24a7b4a3d68357216420.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_88183b0d501880b6b979af7bb8b994526e4dfcbf.jar" />
+    </item>
+    <item
+        jar="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/kgast/AndroidStudioProjects/AppNexusTestApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_24ef3062396c0a87e29eb59ee413f2d8fc21c1df.jar" />
+    </item>
+
+</items>
